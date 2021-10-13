@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am currently working as a software developer for CoverMyMeds.
+I am also the owner of Hippo Web Development
+
+Most of my work thus far uses some combo of Ruby, JavaScript, Vue, and React.
+
+I can be found on Twitter @hippo_web
